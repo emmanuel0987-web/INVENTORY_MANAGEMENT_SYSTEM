@@ -1,4 +1,5 @@
-﻿using System;
+// Added Product class improvements
+using System;
 using System.Text.RegularExpressions;
 
 namespace InventoryManagementSystem
