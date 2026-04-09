@@ -1,4 +1,5 @@
-﻿using System;
+// Improve console UI
+using System;
 using System.Collections.Generic;
 
 namespace InventoryManagementSystem
