@@ -1,4 +1,5 @@
-﻿using System;
+// Final system update
+using System;
 
 namespace InventoryManagementSystem
 {
